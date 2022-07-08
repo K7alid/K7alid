@@ -1,4 +1,4 @@
-[![MasterHead](https://www.rlogical.com/wp-content/uploads/2021/03/Is-Flutter-the-Future-of-Hybrid-App-Development-2.png)
+![MasterHead](https://www.rlogical.com/wp-content/uploads/2021/03/Is-Flutter-the-Future-of-Hybrid-App-Development-2.png)
 <h1 align="center">Hi 👋, I'm Khaild</h1>
 <h3 align="center">Junior Mobile Developer with Flutter (cross-platform)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
